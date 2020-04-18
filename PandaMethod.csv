@@ -1,0 +1,6 @@
+,Method Name,Accuracy
+0,Removing Rows,.955
+1,Bfill,1.0
+2,Ffill,1.0
+3,Mean,1.0
+4,Median,1.0
